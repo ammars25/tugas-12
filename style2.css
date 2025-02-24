@@ -1,0 +1,24 @@
+
+
+.img{
+    display: grid;
+    grid-template-columns: 2fr;
+    gap: 50px;
+    background-color: #5165bc;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    object-fit: cover;
+}
+
+.tag{
+
+    display: flex;
+}
+
+.card{
+    display: flex;
+    margin-top: auto;
+}
+
+    
